@@ -1,0 +1,11 @@
+{
+  "name": "leggilo",
+  "version": "1.0.0",
+  "description": "App per leggere da camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FM Panelli",
+  "license": "ISC"
+}
